@@ -1,7 +1,8 @@
-# Иван Иванов — C# / .NET Developer (Middle)
+# Ахунджанов Асылжан — C# / .NET Developer (Middle)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?logo=telegram&logoColor=white)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-example@mail.ru-EA4335?logo=gmail&logoColor=white)](mailto:example@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@akhhh1as-2CA5E0?logo=telegram&logoColor=white)](https://t.me/akhhh1as)
+[![Email](https://img.shields.io/badge/Email-machinekill64@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:machinekill64@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-machinekill64--commits-181717?logo=github&logoColor=white)](https://github.com/machinekill64-commits)
 [![Location](https://img.shields.io/badge/Формат-удалённо%20%2F%20гибрид-success)]()
 
 > .NET-разработчик с 2 годами коммерческого опыта. Бэкенд веб-приложений на **ASP.NET Core MVC** — от обсуждения требований до деплоя и поддержки.
@@ -62,8 +63,8 @@
 ## Образование
 
 **Среднее профессиональное образование (СПО)**
-Специальность: «Программирование и информационные системы»
-Учебное заведение: ______, год окончания: ______
+Направление: «Программирование и информационные системы»
+Учебное заведение: ВКИ НГУ (Высший колледж информатики Новосибирского государственного университета), год окончания: 2026
 
 ## Дополнительно
 
@@ -78,4 +79,4 @@
 
 ---
 
-**Контакты:** [Telegram](https://t.me/username) · [Email](mailto:example@mail.ru)
+**Контакты:** [Telegram](https://t.me/akhhh1as) · [Email](mailto:machinekill64@gmail.com) · Новосибирск
