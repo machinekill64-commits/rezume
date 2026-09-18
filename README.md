@@ -79,4 +79,4 @@
 
 ---
 
-**Контакты:** [Telegram](https://t.me/akhhh1as) · [Email](mailto:machinekill64@gmail.com) · Новосибирск
+**Контакты:** [Telegram](https://t.me/akhhh1as) · [Email](mailto:machinekill64@gmail.com) · +7 (983) 328-93-80 · Новосибирск
